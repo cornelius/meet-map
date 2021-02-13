@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/community.kde.org\/KDE_PIM\/Meetings\/Osnabrueck_12"
+                 "value":"https:\/\/cornelius.github.io\/meet-map\/welcome.html"
                 }],
          "type":"tilelayer",
          "visible":true,
